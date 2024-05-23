@@ -1,0 +1,4098 @@
+[
+  {
+    "Recommand_choice": "ISTJZOALBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZOALBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZOALXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZOALXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZOAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZOAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZOAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZOAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZOWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZOWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZOWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZOWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZOWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZOWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZOWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZOWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZDALBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZDALBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZDALXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZDALXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZDAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZDAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZDAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZDAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZDWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZDWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZDWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZDWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZDWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZDWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJZDWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJZDWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMOALBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMOALBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMOALXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMOALXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMOAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMOAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMOAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMOAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMOWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMOWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMOWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMOWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMOWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMOWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMOWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMOWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMDALBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMDALBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMDALXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMDALXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMDAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMDAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMDAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMDAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMDWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMDWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMDWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMDWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMDWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMDWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTJMDWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTJMDWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZOALBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZOALBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZOALXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZOALXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZOAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZOAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZOAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZOAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZOWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZOWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZOWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZOWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZOWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZOWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZOWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZOWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZDALBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZDALBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZDALXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZDALXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZDAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZDAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZDAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZDAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZDWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZDWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZDWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZDWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZDWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZDWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPZDWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPZDWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMOALBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMOALBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMOALXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMOALXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMOAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMOAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMOAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMOAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMOWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMOWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMOWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMOWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMOWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMOWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMOWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMOWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMDALBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMDALBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMDALXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMDALXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMDAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMDAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMDAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMDAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMDWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMDWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMDWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMDWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMDWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMDWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISTPMDWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISTPMDWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZOALBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZOALBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZOALXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZOALXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZOAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZOAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZOAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZOAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZOWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZOWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZOWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZOWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZOWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZOWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZOWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZOWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZDALBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZDALBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZDALXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZDALXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZDAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZDAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZDAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZDAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZDWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZDWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZDWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZDWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZDWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZDWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJZDWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJZDWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMOALBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMOALBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMOALXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMOALXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMOAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMOAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMOAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMOAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMOWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMOWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMOWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMOWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMOWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMOWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMOWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMOWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMDALBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMDALBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMDALXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMDALXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMDAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMDAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMDAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMDAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMDWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMDWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMDWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMDWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMDWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMDWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFJMDWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFJMDWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZOALBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZOALBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZOALXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZOALXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZOAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZOAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZOAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZOAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZOWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZOWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZOWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZOWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZOWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZOWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZOWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZOWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZDALBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZDALBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZDALXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZDALXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZDAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZDAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZDAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZDAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZDWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZDWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZDWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZDWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZDWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZDWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPZDWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPZDWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMOALBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMOALBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMOALXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMOALXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMOAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMOAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMOAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMOAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMOWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMOWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMOWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMOWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMOWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMOWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMOWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMOWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMDALBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMDALBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMDALXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMDALXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMDAQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMDAQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMDAQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMDAQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMDWLBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMDWLBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMDWLXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMDWLXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMDWQBR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMDWQBG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ISFPMDWQXR",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ISFPMDWQXG",
+    "Recommand_keyword": "내성적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZOALBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZOALBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZOALXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZOALXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZOAQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZOAQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZOAQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZOAQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZOWLBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZOWLBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZOWLXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZOWLXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZOWQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZOWQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZOWQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZOWQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZDALBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZDALBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZDALXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZDALXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZDAQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZDAQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZDAQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZDAQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZDWLBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZDWLBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZDWLXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZDWLXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZDWQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZDWQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJZDWQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJZDWQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMOALBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMOALBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMOALXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMOALXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMOAQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMOAQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMOAQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMOAQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMOWLBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMOWLBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMOWLXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMOWLXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMOWQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMOWQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMOWQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMOWQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMDALBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMDALBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMDALXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMDALXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMDAQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMDAQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMDAQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMDAQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMDWLBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMDWLBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMDWLXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMDWLXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMDWQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMDWQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTJMDWQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTJMDWQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZOALBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZOALBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZOALXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZOALXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZOAQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZOAQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZOAQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZOAQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZOWLBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZOWLBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZOWLXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZOWLXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZOWQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZOWQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZOWQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZOWQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZDALBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZDALBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZDALXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZDALXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZDAQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZDAQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZDAQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZDAQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZDWLBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZDWLBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZDWLXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZDWLXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZDWQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZDWQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPZDWQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPZDWQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMOALBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMOALBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMOALXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMOALXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMOAQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMOAQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMOAQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMOAQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMOWLBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMOWLBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMOWLXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMOWLXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMOWQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMOWQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMOWQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMOWQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMDALBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMDALBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMDALXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMDALXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMDAQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMDAQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMDAQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMDAQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMDWLBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMDWLBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMDWLXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMDWLXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMDWQBR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMDWQBG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INTPMDWQXR",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INTPMDWQXG",
+    "Recommand_keyword": "내성적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZOALBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZOALBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZOALXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZOALXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZOAQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZOAQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZOAQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZOAQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZOWLBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZOWLBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZOWLXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZOWLXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZOWQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZOWQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZOWQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZOWQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZDALBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZDALBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZDALXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZDALXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZDAQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZDAQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZDAQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZDAQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZDWLBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZDWLBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZDWLXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZDWLXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZDWQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZDWQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJZDWQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJZDWQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMOALBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMOALBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMOALXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMOALXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMOAQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMOAQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMOAQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMOAQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMOWLBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMOWLBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMOWLXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMOWLXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMOWQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMOWQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMOWQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMOWQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMDALBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMDALBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMDALXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMDALXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMDAQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMDAQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMDAQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMDAQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMDWLBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMDWLBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMDWLXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMDWLXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMDWQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMDWQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFJMDWQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFJMDWQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZOALBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZOALBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZOALXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZOALXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZOAQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZOAQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZOAQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZOAQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZOWLBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZOWLBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZOWLXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZOWLXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZOWQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZOWQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZOWQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZOWQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZDALBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZDALBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZDALXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZDALXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZDAQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZDAQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZDAQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZDAQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZDWLBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZDWLBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZDWLXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZDWLXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZDWQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZDWQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPZDWQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPZDWQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMOALBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMOALBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMOALXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMOALXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMOAQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMOAQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMOAQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMOAQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMOWLBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMOWLBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMOWLXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMOWLXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMOWQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMOWQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMOWQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMOWQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMDALBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMDALBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMDALXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMDALXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMDAQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMDAQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMDAQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMDAQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMDWLBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMDWLBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMDWLXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMDWLXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMDWQBR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMDWQBG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "INFPMDWQXR",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "INFPMDWQXG",
+    "Recommand_keyword": "내성적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZOALBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZOALBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZOALXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZOALXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZOAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZOAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZOAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZOAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZOWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZOWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZOWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZOWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZOWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZOWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZOWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZOWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZDALBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZDALBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZDALXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZDALXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZDAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZDAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZDAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZDAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZDWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZDWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZDWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZDWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZDWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZDWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJZDWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJZDWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMOALBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMOALBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMOALXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMOALXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMOAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMOAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMOAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMOAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMOWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMOWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMOWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMOWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMOWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMOWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMOWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMOWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMDALBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMDALBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMDALXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMDALXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMDAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMDAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMDAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMDAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMDWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMDWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMDWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMDWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMDWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMDWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTJMDWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTJMDWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZOALBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZOALBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZOALXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZOALXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZOAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZOAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZOAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZOAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZOWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZOWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZOWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZOWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZOWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZOWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZOWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZOWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZDALBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZDALBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZDALXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZDALXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZDAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZDAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZDAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZDAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZDWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZDWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZDWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZDWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZDWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZDWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPZDWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPZDWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMOALBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMOALBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMOALXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMOALXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMOAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMOAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMOAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMOAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMOWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMOWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMOWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMOWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMOWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMOWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMOWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMOWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMDALBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMDALBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMDALXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMDALXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMDAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMDAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMDAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMDAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMDWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMDWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMDWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMDWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMDWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMDWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESTPMDWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESTPMDWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZOALBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZOALBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZOALXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZOALXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZOAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZOAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZOAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZOAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZOWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZOWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZOWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZOWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZOWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZOWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZOWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZOWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZDALBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZDALBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZDALXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZDALXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZDAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZDAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZDAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZDAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZDWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZDWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZDWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZDWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZDWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZDWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJZDWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJZDWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMOALBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMOALBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMOALXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMOALXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMOAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMOAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMOAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMOAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMOWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMOWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMOWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMOWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMOWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMOWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMOWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMOWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMDALBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMDALBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMDALXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMDALXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMDAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMDAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMDAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMDAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMDWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMDWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMDWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMDWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMDWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMDWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFJMDWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFJMDWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZOALBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZOALBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZOALXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZOALXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZOAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZOAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZOAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZOAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZOWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZOWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZOWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZOWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZOWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZOWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZOWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZOWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZDALBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZDALBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZDALXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZDALXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZDAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZDAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZDAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZDAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZDWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZDWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZDWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZDWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZDWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZDWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPZDWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPZDWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMOALBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMOALBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMOALXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMOALXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMOAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMOAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMOAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMOAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMOWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMOWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMOWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMOWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMOWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMOWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMOWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMOWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMDALBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMDALBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMDALXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMDALXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMDAQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMDAQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMDAQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMDAQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMDWLBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMDWLBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMDWLXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMDWLXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMDWQBR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMDWQBG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ESFPMDWQXR",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ESFPMDWQXG",
+    "Recommand_keyword": "적극적, 감각적인, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZOALBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZOALBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZOALXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZOALXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZOAQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZOAQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZOAQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZOAQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZOWLBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZOWLBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZOWLXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZOWLXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZOWQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZOWQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZOWQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZOWQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZDALBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZDALBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZDALXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZDALXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZDAQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZDAQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZDAQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZDAQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZDWLBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZDWLBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZDWLXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZDWLXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZDWQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZDWQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJZDWQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJZDWQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMOALBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMOALBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMOALXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMOALXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMOAQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMOAQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMOAQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMOAQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMOWLBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMOWLBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMOWLXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMOWLXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMOWQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMOWQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMOWQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMOWQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMDALBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMDALBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMDALXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMDALXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMDAQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMDAQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMDAQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMDAQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMDWLBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMDWLBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMDWLXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMDWLXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMDWQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMDWQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTJMDWQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTJMDWQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZOALBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZOALBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZOALXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZOALXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZOAQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZOAQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZOAQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZOAQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZOWLBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZOWLBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZOWLXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZOWLXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZOWQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZOWQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZOWQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZOWQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZDALBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZDALBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZDALXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZDALXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZDAQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZDAQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZDAQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZDAQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZDWLBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZDWLBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZDWLXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZDWLXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZDWQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZDWQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPZDWQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPZDWQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMOALBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMOALBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMOALXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMOALXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMOAQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMOAQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMOAQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMOAQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMOWLBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMOWLBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMOWLXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMOWLXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMOWQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMOWQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMOWQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMOWQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMDALBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMDALBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMDALXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMDALXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMDAQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMDAQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMDAQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMDAQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMDWLBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMDWLBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMDWLXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMDWLXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMDWQBR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMDWQBG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENTPMDWQXR",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENTPMDWQXG",
+    "Recommand_keyword": "적극적, 직관적, 생각하다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZOALBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZOALBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZOALXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZOALXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZOAQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZOAQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZOAQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZOAQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZOWLBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZOWLBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZOWLXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZOWLXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZOWQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZOWQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZOWQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZOWQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZDALBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZDALBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZDALXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZDALXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZDAQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZDAQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZDAQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZDAQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZDWLBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZDWLBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZDWLXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZDWLXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZDWQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZDWQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJZDWQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJZDWQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMOALBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMOALBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMOALXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMOALXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMOAQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMOAQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMOAQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMOAQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMOWLBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMOWLBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMOWLXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMOWLXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMOWQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMOWQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMOWQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMOWQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMDALBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMDALBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMDALXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMDALXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMDAQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMDAQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMDAQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMDAQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMDWLBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMDWLBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMDWLXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMDWLXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMDWQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMDWQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFJMDWQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFJMDWQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 계획, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZOALBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZOALBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZOALXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZOALXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZOAQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZOAQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZOAQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZOAQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZOWLBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZOWLBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZOWLXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZOWLXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZOWQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZOWQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZOWQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZOWQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZDALBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZDALBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZDALXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZDALXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZDAQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZDAQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZDAQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZDAQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZDWLBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZDWLBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZDWLXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZDWLXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZDWQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZDWQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPZDWQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPZDWQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 바다, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMOALBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMOALBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMOALXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMOALXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMOAQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMOAQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMOAQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMOAQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMOWLBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMOWLBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMOWLXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMOWLXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMOWQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMOWQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMOWQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMOWQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 자연, 운동, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMDALBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMDALBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMDALXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMDALXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMDAQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMDAQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMDAQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMDAQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 교통수단, 평화로운, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMDWLBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMDWLBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMDWLXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMDWLXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 신나는, 장기여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMDWQBR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMDWQBG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 당일여행, 저렴하다"
+  },
+  {
+    "Recommand_choice": "ENFPMDWQXR",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 비싸다"
+  },
+  {
+    "Recommand_choice": "ENFPMDWQXG",
+    "Recommand_keyword": "적극적, 직관적, 감정적이다, 유연하다, 산, 음식, 운동, 평화로운, 장기여행, 저렴하다"
+  }
+]

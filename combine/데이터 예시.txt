@@ -1,0 +1,85 @@
+[
+  {
+    "result_choice": "ISTJZOALBR",
+    "count": 0,
+    "music": [
+      {
+        "music_genre": "댄스",
+        "music_image": "img.png",
+        "music_lyric": "비행기 타고가요",
+        "music_singer": "거북이",
+        "music_title": "비행기"
+      },
+      {
+        "music_genre": "댄스2",
+        "music_image": "img2.png",
+        "music_lyric": "비행기2 타고가요",
+        "music_singer": "거북이2",
+        "music_title": "비행기2"
+      },
+      {
+        "music_genre": "댄스3",
+        "music_image": "img2.png",
+        "music_lyric": "비행기2 타고가요",
+        "music_singer": "거북이2",
+        "music_title": "비행기2"
+      },
+      {
+        "music_genre": "댄스4",
+        "music_image": "img2.png",
+        "music_lyric": "비행기2 타고가요",
+        "music_singer": "거북이2",
+        "music_title": "비행기2"
+      },
+      {
+        "music_genre": "댄스5",
+        "music_image": "img2.png",
+        "music_lyric": "비행기2 타고가요",
+        "music_singer": "거북이2",
+        "music_title": "비행기2"
+      }
+    ],
+    "places": [
+      {
+        "img_rname": "이미지 url",
+        "poi_desc": "상세 설명",
+        "poi_info": "짧은 설명",
+        "poi_name": "보성 골망태다원",
+        "poi_region": "보성",
+        "poi_tag": "#보성,#좋아요,#녹차"
+      },
+      {
+        "img_rname": "이미지 url",
+        "poi_desc": "상세 설명",
+        "poi_info": "짧은 설명",
+        "poi_name": "보성 골망태다원",
+        "poi_region": "보성2",
+        "poi_tag": "#보성,#좋아요,#녹차"
+      },
+      {
+        "img_rname": "이미지 url",
+        "poi_desc": "상세 설명",
+        "poi_info": "짧은 설명",
+        "poi_name": "보성 골망태다원",
+        "poi_region": "보성3",
+        "poi_tag": "#보성,#좋아요,#녹차"
+      },
+      {
+        "img_rname": "이미지 url",
+        "poi_desc": "상세 설명",
+        "poi_info": "짧은 설명",
+        "poi_name": "보성 골망태다원",
+        "poi_region": "보성4",
+        "poi_tag": "#보성,#좋아요,#녹차"
+      },
+      {
+        "img_rname": "이미지 url",
+        "poi_desc": "상세 설명",
+        "poi_info": "짧은 설명",
+        "poi_name": "보성 골망태다원",
+        "poi_region": "보성5",
+        "poi_tag": "#보성,#좋아요,#녹차"
+      }
+    ]
+  }
+]

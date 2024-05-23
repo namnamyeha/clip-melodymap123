@@ -1,0 +1,582 @@
+[
+  {
+    "choice": "ISTJZOALBR",
+    "region": [
+      "보성"
+    ],
+    "places": [
+      {
+        "place_name": "용산서원(보성)",
+        "music": [
+          "하루 끝",
+          "좋은 날",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "스물셋",
+          "하루 끝"
+        ]
+      },
+      {
+        "place_name": "용산서원(보성)",
+        "music": [
+          "너랑 나",
+          "좋은 날",
+          "스물셋",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "하루 끝"
+        ]
+      },
+      {
+        "place_name": "보성열화정",
+        "music": [
+          "너랑 나",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "너랑 나",
+          "Bus 안에서",
+          "SHAKE IT"
+        ]
+      },
+      {
+        "place_name": "오봉산(보성)",
+        "music": [
+          "비행기",
+          "I Don't Care",
+          "하루 끝",
+          "I Don't Care",
+          "I Don't Care"
+        ]
+      },
+      {
+        "place_name": "보성 골망태다원",
+        "music": [
+          "Bus 안에서",
+          "비행기",
+          "Bus 안에서",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "스물셋"
+        ]
+      }
+    ]
+  },
+  {
+    "choice": "ISTJZOALBG",
+    "region": [
+      "보성"
+    ],
+    "places": [
+      {
+        "place_name": "보성향교",
+        "music": [
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "좋은 날",
+          "I Don't Care",
+          "Bus 안에서",
+          "하루 끝"
+        ]
+      },
+      {
+        "place_name": "보성 이진래고택",
+        "music": [
+          "I Don't Care",
+          "하루 끝",
+          "8282",
+          "Bus 안에서",
+          "너랑 나"
+        ]
+      },
+      {
+        "place_name": "송광사 포교당(보성)",
+        "music": [
+          "스물셋",
+          "비행기",
+          "스물셋",
+          "좋은 날",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)"
+        ]
+      },
+      {
+        "place_name": "보성문화원",
+        "music": [
+          "Bus 안에서",
+          "Bus 안에서",
+          "스물셋",
+          "스물셋",
+          "Bus 안에서"
+        ]
+      },
+      {
+        "place_name": "보성열화정",
+        "music": [
+          "스물셋",
+          "스물셋",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "SHAKE IT",
+          "I Don't Care"
+        ]
+      }
+    ]
+  },
+  {
+    "choice": "ISTJZOALXR",
+    "region": [
+      "보성"
+    ],
+    "places": [
+      {
+        "place_name": "보성 벌교 홍교",
+        "music": [
+          "너랑 나",
+          "8282",
+          "좋은 날",
+          "스물셋",
+          "비행기"
+        ]
+      },
+      {
+        "place_name": "송광사 포교당(보성)",
+        "music": [
+          "너랑 나",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "비행기",
+          "8282",
+          "비행기"
+        ]
+      },
+      {
+        "place_name": "보성향교",
+        "music": [
+          "I Don't Care",
+          "하루 끝",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "I Don't Care",
+          "스물셋"
+        ]
+      },
+      {
+        "place_name": "보성 이진래고택",
+        "music": [
+          "Bus 안에서",
+          "너랑 나",
+          "SHAKE IT",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "8282"
+        ]
+      },
+      {
+        "place_name": "보성 이진래고택",
+        "music": [
+          "SHAKE IT",
+          "좋은 날",
+          "좋은 날",
+          "너랑 나",
+          "I Don't Care"
+        ]
+      }
+    ]
+  },
+  {
+    "choice": "ISTJZOALXG",
+    "region": [
+      "보성"
+    ],
+    "places": [
+      {
+        "place_name": "보성향교",
+        "music": [
+          "8282",
+          "I Don't Care",
+          "좋은 날",
+          "SHAKE IT",
+          "스물셋"
+        ]
+      },
+      {
+        "place_name": "송광사 포교당(보성)",
+        "music": [
+          "스물셋",
+          "비행기",
+          "비행기",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "스물셋"
+        ]
+      },
+      {
+        "place_name": "보성문화원",
+        "music": [
+          "I Don't Care",
+          "SHAKE IT",
+          "너랑 나",
+          "8282",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)"
+        ]
+      },
+      {
+        "place_name": "송광사 포교당(보성)",
+        "music": [
+          "좋은 날",
+          "8282",
+          "좋은 날",
+          "너랑 나",
+          "너랑 나"
+        ]
+      },
+      {
+        "place_name": "구 보성여관",
+        "music": [
+          "하루 끝",
+          "SHAKE IT",
+          "Bus 안에서",
+          "너랑 나",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)"
+        ]
+      }
+    ]
+  },
+  {
+    "choice": "ISTJZOAQBR",
+    "region": [
+      "보성"
+    ],
+    "places": [
+      {
+        "place_name": "보성문화원",
+        "music": [
+          "너랑 나",
+          "스물셋",
+          "SHAKE IT",
+          "좋은 날",
+          "I Don't Care"
+        ]
+      },
+      {
+        "place_name": "보성 골망태다원",
+        "music": [
+          "SHAKE IT",
+          "하루 끝",
+          "스물셋",
+          "Bus 안에서",
+          "Bus 안에서"
+        ]
+      },
+      {
+        "place_name": "구 보성여관",
+        "music": [
+          "스물셋",
+          "Bus 안에서",
+          "스물셋",
+          "Bus 안에서",
+          "하루 끝"
+        ]
+      },
+      {
+        "place_name": "오봉산(보성)",
+        "music": [
+          "너랑 나",
+          "하루 끝",
+          "I Don't Care",
+          "너랑 나",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)"
+        ]
+      },
+      {
+        "place_name": "보성향교",
+        "music": [
+          "8282",
+          "비행기",
+          "SHAKE IT",
+          "I Don't Care",
+          "비행기"
+        ]
+      }
+    ]
+  },
+  {
+    "choice": "ISTJZOAQBG",
+    "region": [
+      "보성"
+    ],
+    "places": [
+      {
+        "place_name": "송광사 포교당(보성)",
+        "music": [
+          "비행기",
+          "8282",
+          "Bus 안에서",
+          "I Don't Care",
+          "Bus 안에서"
+        ]
+      },
+      {
+        "place_name": "오봉산(보성)",
+        "music": [
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "SHAKE IT",
+          "비행기",
+          "너랑 나",
+          "Bus 안에서"
+        ]
+      },
+      {
+        "place_name": "보성향교",
+        "music": [
+          "SHAKE IT",
+          "스물셋",
+          "스물셋",
+          "스물셋",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)"
+        ]
+      },
+      {
+        "place_name": "용산서원(보성)",
+        "music": [
+          "Bus 안에서",
+          "Bus 안에서",
+          "너랑 나",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "비행기"
+        ]
+      },
+      {
+        "place_name": "오봉산(보성)",
+        "music": [
+          "비행기",
+          "스물셋",
+          "스물셋",
+          "너랑 나",
+          "비행기"
+        ]
+      }
+    ]
+  },
+  {
+    "choice": "ISTJZOAQXR",
+    "region": [
+      "보성"
+    ],
+    "places": [
+      {
+        "place_name": "보성 벌교 홍교",
+        "music": [
+          "SHAKE IT",
+          "I Don't Care",
+          "너랑 나",
+          "비행기",
+          "하루 끝"
+        ]
+      },
+      {
+        "place_name": "보성향교",
+        "music": [
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "Bus 안에서",
+          "너랑 나",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "Bus 안에서"
+        ]
+      },
+      {
+        "place_name": "보성열화정",
+        "music": [
+          "Bus 안에서",
+          "Bus 안에서",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "8282",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)"
+        ]
+      },
+      {
+        "place_name": "구 보성여관",
+        "music": [
+          "SHAKE IT",
+          "8282",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)"
+        ]
+      },
+      {
+        "place_name": "보성 이진래고택",
+        "music": [
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "SHAKE IT",
+          "하루 끝",
+          "좋은 날",
+          "SHAKE IT"
+        ]
+      }
+    ]
+  },
+  {
+    "choice": "ISTJZOAQXG",
+    "region": [
+      "보성"
+    ],
+    "places": [
+      {
+        "place_name": "구 보성여관",
+        "music": [
+          "스물셋",
+          "좋은 날",
+          "스물셋",
+          "너랑 나",
+          "하루 끝"
+        ]
+      },
+      {
+        "place_name": "보성문화원",
+        "music": [
+          "너랑 나",
+          "8282",
+          "8282",
+          "8282",
+          "스물셋"
+        ]
+      },
+      {
+        "place_name": "보성 벌교 홍교",
+        "music": [
+          "너랑 나",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "좋은 날",
+          "I Don't Care",
+          "SHAKE IT"
+        ]
+      },
+      {
+        "place_name": "보성문화원",
+        "music": [
+          "8282",
+          "비행기",
+          "하루 끝",
+          "Bus 안에서",
+          "Bus 안에서"
+        ]
+      },
+      {
+        "place_name": "보성열화정",
+        "music": [
+          "비행기",
+          "좋은 날",
+          "너랑 나",
+          "하루 끝",
+          "좋은 날"
+        ]
+      }
+    ]
+  },
+  {
+    "choice": "ISTJZOWLBR",
+    "region": [
+      "보성"
+    ],
+    "places": [
+      {
+        "place_name": "보성 골망태다원",
+        "music": [
+          "스물셋",
+          "하루 끝",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "비행기"
+        ]
+      },
+      {
+        "place_name": "보성열화정",
+        "music": [
+          "SHAKE IT",
+          "I Don't Care",
+          "SHAKE IT",
+          "스물셋",
+          "Bus 안에서"
+        ]
+      },
+      {
+        "place_name": "용산서원(보성)",
+        "music": [
+          "I Don't Care",
+          "Bus 안에서",
+          "I Don't Care",
+          "하루 끝",
+          "Bus 안에서"
+        ]
+      },
+      {
+        "place_name": "보성향교",
+        "music": [
+          "8282",
+          "SHAKE IT",
+          "하루 끝",
+          "8282",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)"
+        ]
+      },
+      {
+        "place_name": "보성향교",
+        "music": [
+          "너랑 나",
+          "하루 끝",
+          "8282",
+          "SHAKE IT",
+          "스물셋"
+        ]
+      }
+    ]
+  },
+  {
+    "choice": "ISTJZOWLBG",
+    "region": [
+      "보성"
+    ],
+    "places": [
+      {
+        "place_name": "오봉산(보성)",
+        "music": [
+          "I Don't Care",
+          "비행기",
+          "Bus 안에서",
+          "비행기",
+          "너랑 나"
+        ]
+      },
+      {
+        "place_name": "보성열화정",
+        "music": [
+          "8282",
+          "스물셋",
+          "SHAKE IT",
+          "SHAKE IT",
+          "8282"
+        ]
+      },
+      {
+        "place_name": "송광사 포교당(보성)",
+        "music": [
+          "SHAKE IT",
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "하루 끝",
+          "너랑 나",
+          "좋은 날"
+        ]
+      },
+      {
+        "place_name": "보성열화정",
+        "music": [
+          "8282",
+          "Bus 안에서",
+          "너랑 나",
+          "하루 끝",
+          "비행기"
+        ]
+      },
+      {
+        "place_name": "오봉산(보성)",
+        "music": [
+          "미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ)",
+          "8282",
+          "SHAKE IT",
+          "너랑 나",
+          "하루 끝"
+        ]
+      }
+    ]
+  }
+]

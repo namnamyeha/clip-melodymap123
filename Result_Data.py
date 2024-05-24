@@ -55,13 +55,13 @@ class Recommendation:
 def merge_recommendations(existing_place: List[Dict[str, str]], existing_music: List[Dict[str, str]], recommendation_results: List[Dict[str, str]]) -> List[Recommendation]:
     merged_data = []
 
-    for idx, result in enumerate(recommendation_results):
+    for result in recommendation_results:
         choice = result["choice"]
-        recommended_region = result["region"][0]  # recommended_region은 리스트로 저장되어 있음
+        recommended_region = result["region"][0]
         places = result["places"]
 
+        music_objects = []
         places_objects = []
-
 
         for place in places:
             place_name = place["place_name"]
@@ -69,7 +69,7 @@ def merge_recommendations(existing_place: List[Dict[str, str]], existing_music: 
 
             place_info = next((p for p in existing_place if p["poi_name"] == place_name), None)
             if place_info:
-                places_obj= Place(
+                place_obj = Place(
                     img_rname=place_info["img_rname"],
                     poi_desc=place_info["poi_desc"],
                     # poi_info=place_info.get("poi_info", "정보 없음"),
@@ -77,48 +77,45 @@ def merge_recommendations(existing_place: List[Dict[str, str]], existing_music: 
                     poi_region=place_info["poi_region"],
                     poi_tag=place_info["poi_tag"]
                 )
-                places_objects.append(places_obj)
+                places_objects.append(place_obj)
 
-            music_objects = []
             for music_title in music_list:
-                music_info = next((music for music in existing_music if music["music_title"] == music_title), None)
-                if music_info:
-                    music_obj = Music(
-                        music_genre=music_info["music_genre"],
-                        music_image=music_info["music_image"],
-                        music_lyric=music_info["music_lyric"],
-                        music_singer=music_info["music_singer"],
-                        music_title=music_title
-                    )
-                    music_objects.append(music_obj)
+                if not any(music.music_title == music_title for music in music_objects):
+                    music_info = next((music for music in existing_music if music["music_title"] == music_title), None)
+                    if music_info:
+                        music_obj = Music(
+                            music_genre=music_info["music_genre"],
+                            music_image=music_info["music_image"],
+                            music_lyric=music_info["music_lyric"],
+                            music_singer=music_info["music_singer"],
+                            music_title=music_title
+                        )
+                        music_objects.append(music_obj)
 
-                # places_objects 리스트 내 각 장소에 음악 리스트 추가
-                if places_objects:
-                    places_objects[-1].music = music_objects
-
-        merged_data.append(Recommendation(
+        recommendation = Recommendation(
             result_choice=choice,
-            count=0,  # 예시로 0으로 설정, 필요시 다른 값으로 수정 가능
+            count=0,
             music=music_objects,
             places=places_objects
-        ))
+        )
+        merged_data.append(recommendation)
 
     return merged_data
 
 # 기존 데이터 파일 로드
-with open("Travle_Data.json", "r", encoding='utf-8') as fp:
+with open("Travle.json", "r", encoding='utf-8') as fp:
     existing_place = json.load(fp)
 
-with open("Music_Data.json","r",encoding='utf-8') as fp:
+with open("Music_Data.json", "r", encoding='utf-8') as fp:
     existing_music = json.load(fp)
 
 # 추천 결과 파일 로드
-with open("000melodymap_results.json", "r", encoding='utf-8') as fp:
+with open("0000melodymap_results.json", "r", encoding='utf-8') as fp:
     recommendation_results = json.load(fp)
 
 # 추천 결과와 기존 데이터 병합
 merged_results = merge_recommendations(existing_place, existing_music, recommendation_results)
 
 # 병합된 결과를 JSON 파일로 저장
-with open('FINAL.json', 'w', encoding='utf-8') as file:
+with open('RFIN.json', 'w', encoding='utf-8') as file:
     json.dump([result.to_dict() for result in merged_results], file, ensure_ascii=False, indent=2)
